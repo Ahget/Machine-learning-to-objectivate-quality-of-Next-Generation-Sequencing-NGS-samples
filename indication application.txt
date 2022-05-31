@@ -1,0 +1,12 @@
+DT_final_erasme.joblib, RF_final_erasme.joblib et Scaler_final_erasme.joblib sont les modèles entraînés pour l'application.
+
+l'application comporte les 3 scripts suivant:
+- fonction
+- NGS_Quality
+- var_glob.
+
+logo-polytech étant le logo de l'application.
+
+la note "commande à faire dans pyinstaller" donne la ligne de commande à écrire dans la commande afin de créer l'application via pyinstaller à partir de ces fichiers.
+
+les 3 modèles, le logo et le fichier "python39.dll" doivent être dans le même dossier que l'application réalisée afin que celle-ci puisse fonctionner.
